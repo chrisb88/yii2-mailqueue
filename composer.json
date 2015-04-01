@@ -1,0 +1,22 @@
+{
+  "name": "cbm/yii2-mailqueue",
+  "description": "Message queue for emails extension for the Yii framework",
+  "keywords": ["mailqueue", "yii2"],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Christian Boehme",
+      "email": "tntchris88@gmx.de"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "videlalvaro/php-amqplib": "v2.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "cbm\\gii\\": "src/"
+    }
+  }
+}
