@@ -3,7 +3,7 @@
   "description": "Message queue for emails extension for the Yii framework",
   "keywords": ["mailqueue", "yii2"],
   "type": "library",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Christian Boehme",
